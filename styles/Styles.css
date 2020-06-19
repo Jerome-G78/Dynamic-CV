@@ -74,31 +74,31 @@ nav a
 .menu-ind:hover, .Presentation
 {
 	border-top:5px solid #4c8;
-	background-color: RGBa(64,200,130,0.15); /* Vert*/
+	background-color: RGBa(64,204,136,0.15); 	/* Vert */
 }
 
 .menu-exp:hover, .Parcours
 {
 	border-top:5px solid #f1dc4f;
-	background-color: RGBa(241,211,79,0.15); /* Jaune*/
+	background-color: RGBa(241,211,79,0.15); 	/* Jaune */
 }
 
 .menu-comp:hover, .Competences
 {
 	border-top:5px solid #0070bb;
-	background-color: RGBa(000,112,192,0.15); /* Rouge*/
+	background-color: RGBa(000,112,187,0.15); 	/* Bleu */
 }
 
-.menu-hob:hover, .Certifications
+.menu-hob:hover
 {
 	border-top:5px solid #2a98e5;
 	background-color: RGBa(42,152,229,0.15);	/* Bleu */
 }
 
-.menu-con:hover
+.menu-con:hover, .Certifications
 {
 	border-top:5px solid #e52a2a;
-	background-color: RGBa(229,42,42,0.15);	/* Rouge*/
+	background-color: RGBa(229,42,42,0.15);		/* Rouge */
 }
 
 nav li:hover a
