@@ -74,31 +74,31 @@ nav a
 .menu-ind:hover, .Presentation
 {
 	border-top:5px solid #4c8;
-	background-color: RGBa (64,200,130,0.15);
+	background-color: RGBa(64,200,130,0.15); /* Vert*/
 }
 
 .menu-exp:hover, .Parcours
 {
 	border-top:5px solid #f1dc4f;
-	background-color: RGBa (241,211,79,0.15);
+	background-color: RGBa(241,211,79,0.15); /* Jaune*/
 }
 
 .menu-comp:hover, .Competences
 {
 	border-top:5px solid #0070bb;
-	background-color: RGBa (000,112,192,0.15);
+	background-color: RGBa(000,112,192,0.15); /* Rouge*/
 }
 
 .menu-hob:hover, .Certifications
 {
-	border-top:5px solid #e44d26;
-	background-color: RGBa (228,77,38,0.15);
+	border-top:5px solid #2a98e5;
+	background-color: RGBa(42,152,229,0.15);	/* Bleu */
 }
 
 .menu-con:hover
 {
-	border-top:5px solid #e249e0;
-	background-color: RGBa (226,73,224,0.15);
+	border-top:5px solid #e52a2a;
+	background-color: RGBa(229,42,42,0.15);	/* Rouge*/
 }
 
 nav li:hover a
@@ -178,6 +178,13 @@ section
 	margin-bottom:0px;
 }
 
+.red
+{
+	border-top: 5px solid red;
+	background-color: RGBa(229,42,42,0.15);
+	margin-bottom:0px;
+}
+
 .leftexp
 {
 	width:45%;
@@ -193,9 +200,13 @@ section
 
 .leftexp img
 {
-	width:100%;
+	width:50%;
 	max-width:256px;
 }
+
+/* Section Loisirs */
+
+
 /* Responsive */
 @media screen and (max-width:780px)
 {
