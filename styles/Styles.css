@@ -216,7 +216,10 @@ section
 
 @media screen and (orientation: portrait)
 {
-	
+	.Rotation
+	{
+		margin-top:50%;
+	}
 	footer
 	{
 		font-size:0.7em;
