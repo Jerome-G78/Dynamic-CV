@@ -224,7 +224,7 @@ section
 		text-align:center;
 	}
 	
-	article
+	article, h1, h2
 	{
 		display:none;
 	}
