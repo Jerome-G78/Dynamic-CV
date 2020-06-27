@@ -67,7 +67,6 @@ nav a
 
 .Rotation
 	{
-		margin-top:50%;
 		text-align:center;
 		/* display:none; */
 	}
@@ -220,8 +219,8 @@ section
 {
 	.Rotation
 	{
-		margin-top:50%;
 		text-align:center;
+		/* display:none; */
 	}
 	
 	article, h1, h2, footer, nav
@@ -234,7 +233,6 @@ section
 {
 	.Rotation
 	{
-		margin-top:50%;
 		display:none;
 	}
 	
