@@ -64,12 +64,6 @@ nav a
 	text-transform:uppercase;
 	font-size:15px;
 }
-
-.Rotation
-	{
-		text-align:center;
-		display:none;
-	}
 	
 .table
 {
@@ -153,6 +147,11 @@ section
 	clear:both;
 }
 
+.Rotation
+	{
+		text-align:center;
+	}
+	
 /* Ajustement de la photo */
 
 .Presentation img
@@ -217,15 +216,10 @@ section
 
 @media screen and (orientation: portrait)
 {
-	.Rotation
-	{
-		text-align:center;
-		/* display:none; */
-	}
 	
 	footer
 	{
-		font-size:0.5em;
+		font-size:0.7em;
 	}
 	
 	article, h1, h2, nav
@@ -234,7 +228,7 @@ section
 	}
 }
 
-@media screen and (orientation: landscape)
+@media screen and (orientation: landscape) /* and (max-width:720px) */
 {
 	.Rotation
 	{
