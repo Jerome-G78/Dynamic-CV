@@ -208,8 +208,22 @@ section
 
 
 /* Responsive */
+
+@media only screen and (min-width: 360px) and (orientation: portrait)
+{
+	article
+	{
+		display:none;
+	}
+}
+
 @media screen and (max-width:780px)
 {
+	.Rotation
+	{
+		display:none;
+	}
+	
 	header
 	{
 		width:100%;
