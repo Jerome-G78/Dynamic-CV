@@ -223,7 +223,7 @@ section
 		/* display:none; */
 	}
 	
-	article, h1, h2, footer, nav
+	article, h1, h2, nav
 	{
 		display:none;
 	}
