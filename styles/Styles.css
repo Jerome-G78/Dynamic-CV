@@ -234,7 +234,7 @@ section
 	}
 }
 
-@media screen and (max-width:780px)
+@media screen and (orientation: landscape)
 {
 	.Rotation
 	{
