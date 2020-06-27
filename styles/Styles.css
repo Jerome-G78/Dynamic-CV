@@ -225,7 +225,7 @@ section
 		font-size:0.7em;
 	}
 	
-	article, h1, h2, nav, footer
+	article, h1, h2, nav, footer, section
 	{
 		display:none;
 	}
