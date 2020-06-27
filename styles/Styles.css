@@ -224,7 +224,7 @@ section
 		text-align:center;
 	}
 	
-	article, h1, h2, footer
+	article, h1, h2, footer, nav
 	{
 		display:none;
 	}
