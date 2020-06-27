@@ -223,6 +223,11 @@ section
 		/* display:none; */
 	}
 	
+	footer
+	{
+		font-size:5em;
+	}
+	
 	article, h1, h2, nav
 	{
 		display:none;
