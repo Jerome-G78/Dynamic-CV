@@ -201,6 +201,7 @@ section
 	width:50%;
 	float:left;
 	margin-left:5%;
+	text-align:justify;
 }
 
 .leftexp img
@@ -239,7 +240,7 @@ section
 	}
 }
 
-@media screen and (max-width:720px) and (orientation: landscape)
+@media screen and (max-width:780px) and (orientation: landscape)
 {
 	.Rotation
 	{
