@@ -221,7 +221,10 @@ section
 
 .Parcours h2, .Certifications h2
 {
+	color:white;
+	font-size:25px;
 	text-shadow:2px 2px 2px grey;
+	text-decoration:overline;
 }
 
 /* Section Loisirs */
