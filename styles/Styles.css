@@ -210,6 +210,13 @@ section
 	max-width:256px;
 }
 
+/* Decoration des titres H2 des sections (accueil) */
+
+.Parcours h2, .Certifications h2
+{
+	text-shadow:2px 2px 2px grey;
+}
+
 /* Section Loisirs */
 
 
@@ -221,6 +228,7 @@ section
 	{
 		margin-top:40%;
 	}
+	
 	footer
 	{
 		font-size:0.7em;
