@@ -1,8 +1,13 @@
 /* Mise en page Commune*/
 
+@font-face {
+ font-family: "AlexBrush";
+ src: url("/fonts/AlexBrush-Regular.ttf") format("ttf");
+}
+
 body
 {
-	font-family:Calibri, arial;
+	font-family:AlexBrush, Calibri, arial;
 	background-color: #40a6e6;
 	margin:0px;
 	padding:0px;
