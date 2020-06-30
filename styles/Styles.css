@@ -2,7 +2,7 @@
 
 @font-face {
  font-family: "AlexBrush";
- src: url("fonts/AlexBrush-Regular.ttf") format("ttf");
+ src: url("../fonts/AlexBrush-Regular.ttf") format("ttf");
 }
 
 body
