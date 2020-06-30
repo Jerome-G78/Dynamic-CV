@@ -1,13 +1,13 @@
 /* Mise en page Commune*/
 
 @font-face {
- font-family: "AlexBrush";
- src: url("../fonts/AlexBrush-Regular.ttf") format("ttf");
+ font-family: "Sansation";
+ src: url("../fonts/Sansation-Regular.woff") format("woff");
 }
 
 body
 {
-	font-family:AlexBrush, Calibri, arial;
+	font-family:Sansation, Calibri, arial;
 	background-color: #40a6e6;
 	margin:0px;
 	padding:0px;
