@@ -8,7 +8,7 @@
 body
 {
 	font-family:Sansation, Calibri, arial;
-	background-color: #40a6e6;
+	background-color: #a9a9a9;
 	margin:0px;
 	padding:0px;
 }
@@ -172,28 +172,28 @@ section
 .green
 {
 	border-top: 5px solid green;
-	background-color: RGBa(74,235,89,0.15);
+	background-color: RGBa(74,235,89,0.20);
 	margin-bottom:0px;
 }
 
 .blue
 {
 	border-top: 5px solid blue;
-	background-color: RGBa(42,152,229,0.15);
+	background-color: RGBa(42,152,229,0.20);
 	margin-bottom:0px;
 }
 
 .yellow
 {
 	border-top: 5px solid yellow;
-	background-color: RGBa(230,232,85,0.15);
+	background-color: RGBa(230,232,85,0.20);
 	margin-bottom:0px;
 }
 
 .red
 {
 	border-top: 5px solid red;
-	background-color: RGBa(229,42,42,0.15);
+	background-color: RGBa(229,42,42,0.20);
 	margin-bottom:0px;
 }
 
