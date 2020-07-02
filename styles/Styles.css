@@ -39,6 +39,7 @@ header
 footer
 {
 	height: 10px;
+	width:100%;
 	/* padding-top: 30px; */
 	text-align:center;
 	background-color:RGBa(139,139,139,0.5);
@@ -258,7 +259,7 @@ section
 	}
 }
 
-@media screen and (max-width:780px) and (orientation: landscape)
+@media screen and (max-width:1168px) and (orientation: landscape)
 {
 	.Rotation
 	{
