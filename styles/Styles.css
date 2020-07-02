@@ -311,6 +311,7 @@ section
 	.cleft, .cright
 	{
 		width:100%;
+		text-align:center;
 	}
 	
 	.cright h3
